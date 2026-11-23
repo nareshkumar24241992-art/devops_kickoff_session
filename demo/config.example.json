@@ -1,0 +1,6 @@
+{
+  "environment": "demo",
+  "featureFlags": {
+    "newPipeline": true
+  }
+}
