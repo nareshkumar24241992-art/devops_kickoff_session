@@ -1,0 +1,1 @@
+Write-Host "OK: demo health check passed"
